@@ -1,4 +1,6 @@
-![image](https://github.com/KcSumanKc/Simple-Food-UI/assets/112715589/47d29478-b9fa-4c00-95c9-7b8b0c818004)# Simple-Food-UI
+# Simple-Food-UI
+
+![image](https://github.com/KcSumanKc/Simple-Food-UI/assets/112715589/47d29478-b9fa-4c00-95c9-7b8b0c818004)
 
 ![image](https://github.com/KcSumanKc/Simple-Food-UI/assets/112715589/971eafb3-26ba-4865-be25-23e92a40c301)
 
