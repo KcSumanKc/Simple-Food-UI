@@ -1,4 +1,4 @@
-# Simple-Food-UI
+# Simple-Food-APP-UI
 
 ![image](https://github.com/KcSumanKc/Simple-Food-UI/assets/112715589/971eafb3-26ba-4865-be25-23e92a40c301)
 
